@@ -9,6 +9,6 @@ namespace Samostalni_2026_Pavle_StanojevicB
 {
     internal class Konekcija
     {
-        string CS = "Data Source= NAZIV SERVERA;Initial Catalog=";
+        string CS = "Data Source= NAZIV SERVERA;Initial Catalog= IME BAZE; Integrated Security = True;";
     }
 }
