@@ -16,7 +16,7 @@ namespace Samostalni_2026_Pavle_StanojevicB
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Login());
         }
     }
 }

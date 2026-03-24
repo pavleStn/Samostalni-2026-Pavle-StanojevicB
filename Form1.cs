@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace Samostalni_2026_Pavle_StanojevicB
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
+
     }
 }
