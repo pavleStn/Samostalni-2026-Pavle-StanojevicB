@@ -24,5 +24,10 @@ namespace Samostalni_2026_Pavle_StanojevicB
             SqlConnection conn = Konekcija.povezi();
             SqlCommand cmd = new SqlCommand("SELECT * FROM Korisnici where email="+textBox1.Text, conn);
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
